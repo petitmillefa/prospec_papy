@@ -18,7 +18,7 @@ de diffusion (cf la [license](LICENSE).
 
 ### Les cumulus
 
-[Lien vers l'étude sur les cumulus](cumuls.md)
+[Lien vers l'étude sur les cumulus](cumulus.md)
 
 
 ## Liens utiles
